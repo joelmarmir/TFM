@@ -18,8 +18,7 @@ output_path <- "/users/genomics/jmartinez/temp_data/expression_datasets_csv_with
 data <- read.csv(input_path,
                   header = TRUE,
                   sep = ";",
-                  na.strings = "",
-                  encoding = "UTF-8-BOM")
+                  na.strings = "")
 as.data.frame(data)
 head(data)
 
