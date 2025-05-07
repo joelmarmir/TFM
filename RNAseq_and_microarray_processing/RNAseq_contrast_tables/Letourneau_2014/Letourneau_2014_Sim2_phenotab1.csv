@@ -1,7 +1,0 @@
-SRA_id,Condition,Replicate,Factor,Genome,Cell_type
-SRR1514326,uninduced,1,sim2,mm10,mesc
-SRR1514327,uninduced,2,sim2,mm10,mesc
-SRR1514328,uninduced,3,sim2,mm10,mesc
-SRR1514323,induced,1,sim2,mm10,mesc
-SRR1514324,induced,2,sim2,mm10,mesc
-SRR1514325,induced,3,sim2,mm10,mesc
