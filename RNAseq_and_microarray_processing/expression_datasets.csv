@@ -30,9 +30,6 @@ Neurog2;Pereira_2024;mm10;Neurog2_induction;GSM6368713;GSM6368716;RNA_seq
 Twist1;Yu_2023;hg38;Rep1;GSM5708360;GSM5708361;RNA_seq
 Twist2;Li_2019;mm10;GM;GSM2232829;GSM2232831;RNA_seq
 Twist2;Li_2019;mm10;DM;GSM2232830;GSM2232832;RNA_seq
-Atoh1;Costa_2022;mm10;Rep_1;GSM4059031;GSM4059033;RNA_seq
-Atoh1;Costa_2022;mm10;Rep_2;GSM4059032;GSM4059034;RNA_seq
-Atoh8;Liu_2023;hg38;Rep1;GSM5712720;GSM5712721;RNA_seq
 Msgn1;Chalamasetty_2014;mm10;12hr_rep_1;GSM739472;GSM739475;Microarray
 Msgn1;Chalamasetty_2014;mm10;12hr_rep_2;GSM739473;GSM739476;Microarray
 Msgn1;Chalamasetty_2014;mm10;12hr_rep_3;GSM739474;GSM739477;Microarray
@@ -170,10 +167,3 @@ Hey1;Weber_2016;mm10;CM7.1;GSM1486624;GSM1486625;Microarray
 Hey1;Weber_2016;mm10;CM7.1_derived_cardiomyocytes;GSM1486060;GSM1486061;RNA_seq
 Hey2;Weber_2016;mm10;CM7.1;GSM1486626;GSM1486627;Microarray
 Hey2;Weber_2016;mm10;CM7.1_derived_cardiomyocytes;GSM1486062;GSM1486063;RNA_seq
-Sim2;Letourneau_2014;mm10;Rep 1;GSM1436017;GSM1436014;RNA_seq
-Sim2;Letourneau_2014;mm10;Rep 2;GSM1436018;GSM1436015;RNA_seq
-Sim2;Letourneau_2014;mm10;Rep 3;GSM1436019;GSM1436016;RNA_seq
-Tfeb;Gambardella_2020;hg38;Ctrl;GSM2589827;;RNA_seq
-Tfeb;Gambardella_2020;hg38;18 hours;;GSM2589830;RNA_seq
-Tfeb;Gambardella_2020;hg38;36 hours;;GSM2589833;RNA_seq
-Tfeb;Gambardella_2020;hg38;90 hours;;GSM2589842;RNA_seq
