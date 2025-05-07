@@ -1,5 +1,0 @@
-SRA_id,Condition,Replicate,Factor,Genome,Cell_type,Time_point
-SRR5482594,uninduced_ctrl,1,tfeb,hg38,hek293,0
-SRR5482597,induced_18h,1,tfeb,hg38,hek293,18
-SRR5482600,induced_36h,1,tfeb,hg38,hek293,36
-SRR5482609,induced_90h,1,tfeb,hg38,hek293,90
