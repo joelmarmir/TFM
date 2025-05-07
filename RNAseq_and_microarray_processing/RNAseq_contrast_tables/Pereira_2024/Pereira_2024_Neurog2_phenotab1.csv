@@ -1,0 +1,8 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR20341391,uninduced,1,neurog2,mm10,astrocyte
+SRR20341392,uninduced,2,neurog2,mm10,astrocyte
+SRR20341393,uninduced,3,neurog2,mm10,astrocyte
+SRR20341394,induced,1,neurog2,mm10,astrocyte
+SRR20341395,induced,2,neurog2,mm10,astrocyte
+SRR20341396,induced,3,neurog2,mm10,astrocyte
+

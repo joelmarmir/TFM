@@ -1,0 +1,5 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type,Time_point
+SRR2069978,uninduced,1,myc,hg38,imec,NA(24+)
+SRR2069983,uninduced,2,myc,hg38,imec,NA(24+)
+SRR2069976,induced,1,myc,hg38,imec,NA(24+)
+SRR2069981,induced,2,myc,hg38,imec,NA(24+)

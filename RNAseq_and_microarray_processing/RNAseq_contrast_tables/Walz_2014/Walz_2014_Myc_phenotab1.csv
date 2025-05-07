@@ -1,0 +1,5 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR987281,uninduced,1,myc,hg38,u2os
+SRR987278,induced,1,myc,hg38,u2os
+
+

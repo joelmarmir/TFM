@@ -1,0 +1,8 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR6118766,uninduced,1,neurod1,mm10,microglia
+SRR6118767,uninduced,2,neurod1,mm10,microglia
+SRR6118768,uninduced,3,neurod1,mm10,microglia
+SRR6118772,induced,1,neurod1,mm10,microglia
+SRR6118773,induced,2,neurod1,mm10,microglia
+SRR6118774,induced,3,neurod1,mm10,microglia
+

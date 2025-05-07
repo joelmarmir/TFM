@@ -1,0 +1,9 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type,Time_point
+SRR3729540,uninduced,1,myc,mm10,liver,48
+SRR3729541,uninduced,2,myc,mm10,liver,48
+SRR3729542,uninduced,3,myc,mm10,liver,48
+SRR3729543,uninduced,4,myc,mm10,liver,48
+SRR3729536,induced,1,myc,mm10,liver,48
+SRR3729537,induced,2,myc,mm10,liver,48
+SRR3729538,induced,3,myc,mm10,liver,48
+SRR3729539,induced,4,myc,mm10,liver,48

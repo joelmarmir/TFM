@@ -1,0 +1,5 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type,Time_point
+SRR22029620,uninduced,1,ascl1,hg38,hesc,168
+SRR22029621,uninduced,2,ascl1,hg38,hesc,168
+SRR22029595,induced,1,ascl1,hg38,hesc,168
+SRR22029594,induced,2,ascl1,hg38,hesc,168

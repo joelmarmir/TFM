@@ -1,0 +1,7 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type,Time_point
+SRR3130252,uninduced,1,myc,hg38,u2os,NA
+SRR3130253,uninduced,2,myc,hg38,u2os,NA
+SRR3130254,uninduced,3,myc,hg38,u2os,NA
+SRR3130255,induced,1,myc,hg38,u2os,NA
+SRR3130256,induced,2,myc,hg38,u2os,NA
+SRR3130257,induced,3,myc,hg38,u2os,NA

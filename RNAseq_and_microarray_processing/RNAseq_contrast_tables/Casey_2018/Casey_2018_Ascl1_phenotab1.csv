@@ -1,0 +1,7 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type,Time_point
+SRR5445233,uninduced,1,ascl1,mm10,mesc,0
+SRR5445234,uninduced,2,ascl1,mm10,mesc,0
+SRR5445235,uninduced,3,ascl1,mm10,mesc,0
+SRR5445236,induced,1,ascl1,mm10,mesc,24
+SRR5445237,induced,2,ascl1,mm10,mesc,24
+SRR5445238,induced,3,ascl1,mm10,mesc,24

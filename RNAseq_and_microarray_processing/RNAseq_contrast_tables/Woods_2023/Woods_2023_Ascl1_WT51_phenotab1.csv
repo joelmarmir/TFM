@@ -1,0 +1,13 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR12150074,uninduced,1,ascl1,hg38,neuroblastoma
+SRR12150075,uninduced,2,ascl1,hg38,neuroblastoma
+SRR12150076,uninduced,3,ascl1,hg38,neuroblastoma
+SRR12150077,uninduced,4,ascl1,hg38,neuroblastoma
+SRR12150078,uninduced,5,ascl1,hg38,neuroblastoma
+SRR12150084,induced,1,ascl1,hg38,neuroblastoma
+SRR12150085,induced,2,ascl1,hg38,neuroblastoma
+SRR12150086,induced,3,ascl1,hg38,neuroblastoma
+SRR12150087,induced,4,ascl1,hg38,neuroblastoma
+SRR12150088,induced,5,ascl1,hg38,neuroblastoma
+
+

@@ -1,0 +1,6 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type,Time_point
+SRR7132956,uninduced_0h,1,neurog2,mm10,eb,0
+SRR7132959,induced_12h,1,neurog2,mm10,eb,12
+SRR7132960,induced_12h,2,neurog2,mm10,eb,12
+SRR7132968,induced_48h,1,neurog2,mm10,eb,48
+SRR7132969,induced_48h,2,neurog2,mm10,eb,48

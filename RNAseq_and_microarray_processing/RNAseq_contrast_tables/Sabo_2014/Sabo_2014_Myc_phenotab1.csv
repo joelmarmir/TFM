@@ -1,0 +1,9 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR997284,uninduced,1,myc,mm10,mef
+SRR997285,uninduced,2,myc,mm10,mef
+SRR997286,uninduced,3,myc,mm10,mef
+SRR997287,uninduced,4,myc,mm10,mef
+SRR997288,induced,1,myc,mm10,mef
+SRR997289,induced,2,myc,mm10,mef
+SRR997290,induced,3,myc,mm10,mef
+SRR997291,induced,4,myc,mm10,mef

@@ -1,0 +1,3 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR17106012,uninduced,1,atoh8,hg38,lung_adenocarcinoma
+SRR17106013,induced,1,atoh8,hg38,lung_adenocarcinoma

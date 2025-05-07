@@ -1,0 +1,7 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR1765723,uninduced,1,neurod1,mm10,mesc
+SRR1765724,uninduced,2,neurod1,mm10,mesc
+SRR1765725,induced,1,neurod1,mm10,mesc
+SRR1765726,induced,2,neurod1,mm10,mesc
+
+

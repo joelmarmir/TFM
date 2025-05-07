@@ -1,0 +1,4 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR3902238,uninduced,1,twist2,mm10,myoblast
+SRR3902242,induced,1,twist2,mm10,myoblast
+

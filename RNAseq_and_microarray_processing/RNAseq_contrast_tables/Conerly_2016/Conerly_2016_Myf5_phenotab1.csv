@@ -1,0 +1,3 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type,Time_point
+SRR2970428,uninduced,1,myf5,mm10,mef,20
+SRR2970427,induced,1,myf5,mm10,mef,20

@@ -1,0 +1,3 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type,Time_point
+SRR1751353,uninduced,1,neurod2,mm10,p19,NA(48+)
+SRR1751360,induced,1,neurod2,mm10,p19,NA(48+)

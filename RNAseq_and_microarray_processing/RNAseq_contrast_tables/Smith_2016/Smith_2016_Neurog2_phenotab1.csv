@@ -1,0 +1,9 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR2989069,uninduced,1,neurog2,hg38,mrc5
+SRR2989070,uninduced,2,neurog2,hg38,mrc5
+SRR2989071,uninduced,3,neurog2,hg38,mrc5
+SRR2989075,induced,1,neurog2,hg38,mrc5
+SRR2989076,induced,2,neurog2,hg38,mrc5
+SRR2989077,induced,3,neurog2,hg38,mrc5
+
+

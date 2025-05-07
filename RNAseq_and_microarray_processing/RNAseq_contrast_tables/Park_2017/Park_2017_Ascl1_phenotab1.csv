@@ -1,0 +1,8 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR4343485,uninduced,1,ascl1,hg38,glioblastoma
+SRR4343486,uninduced,2,ascl1,hg38,glioblastoma
+SRR4343487,uninduced,3,ascl1,hg38,glioblastoma  
+SRR4343488,induced,1,ascl1,hg38,glioblastoma
+SRR4343489,induced,2,ascl1,hg38,glioblastoma
+SRR4343490,induced,3,ascl1,hg38,glioblastoma
+

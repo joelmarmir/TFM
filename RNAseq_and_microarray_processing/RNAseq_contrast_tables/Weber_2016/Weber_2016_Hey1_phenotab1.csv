@@ -1,0 +1,6 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR1556798,uninduced,1,hey1,mm10,cardiomyocite
+SRR1556799,induced,1,hey1,mm10,cardiomyocite
+
+
+

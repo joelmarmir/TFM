@@ -1,0 +1,6 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR17067378,uninduced,1,twist1,hg38,mcf7
+SRR17067382,induced,1,twist1,hg38,mcf7
+
+
+

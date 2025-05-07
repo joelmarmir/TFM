@@ -1,0 +1,9 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR19845265,uninduced,1,neurog2,mm10,mesc
+SRR19845264,uninduced,2,neurog2,mm10,mesc
+SRR19845263,uninduced,3,neurog2,mm10,mesc
+SRR19845262,induced,1,neurog2,mm10,mesc
+SRR19845261,induced,2,neurog2,mm10,mesc
+SRR19845260,induced,3,neurog2,mm10,mesc
+
+

@@ -1,0 +1,8 @@
+SRA_id,Condition,Replicate,Factor,Genome,Cell_type
+SRR5151762,uninduced,1,myod1,hg38,fibroblast
+SRR5151763,uninduced,2,myod1,hg38,fibroblast
+SRR5151764,uninduced,3,myod1,hg38,fibroblast
+SRR5151765,induced,1,myod1,hg38,fibroblast
+SRR5151766,induced,2,myod1,hg38,fibroblast
+SRR5151767,induced,2,myod1,hg38,fibroblast
+
