@@ -1,1 +1,1 @@
-This repository contains the code I have used to perfom my master thesis on bHLH transcritption factors and their role on gene expression.
+This repository contains the pipline I have used to perfom gene expression analysis from mltiple datasets as part of my master thesis titled "Dissecting the Regulatory Mechanisms of bHLH Transcription Factors through Differential Expression Analysis and Chromatin Profiling".
